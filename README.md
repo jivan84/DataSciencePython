@@ -101,6 +101,7 @@
 - [One Hot Encoding for Machine learning in Python](http://stackoverflow.com/questions/17469835/one-hot-encoding-for-machine-learning)
 - [**Building a (semi) Autonomous Drone with Python**](http://blog.yhat.com/posts/autonomous-droning-with-python.html)
 - [Awesome Python - Machine Learning](https://github.com/vinta/awesome-python#machine-learning)
+- [Machine Learning: A Comprehensive Guide](https://www.scaler.com/blog/machine-learning-career/)
 - Computer Vision
   - [Awesome Python - Computer Vision](https://github.com/vinta/awesome-python#computer-vision)
 
